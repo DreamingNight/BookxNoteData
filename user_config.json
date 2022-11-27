@@ -1,0 +1,28 @@
+{
+    "AddNoteActiveEdit": true,
+    "AppFont": "Microsoft YaHei UI",
+    "AutoOpenDoc": 0,
+    "EpubFont": "微软雅黑",
+    "HotKeys": {
+        "112": "Ctrl+C",
+        "120": "Ctrl+O",
+        "126": "Ctrl+W",
+        "139": "Ctrl+F",
+        "140": "Shift+F3",
+        "141": "F3",
+        "149": "Ctrl+B",
+        "151": "F9",
+        "167": "Alt+R",
+        "239": "F2",
+        "252": "Ctrl+Shift+O",
+        "274": "Ctrl+T",
+        "318": "F10",
+        "420": "Ctrl+Q",
+        "440": "F11",
+        "443": "Ctrl+Z",
+        "444": "Ctrl+Y",
+        "521": "F8"
+    },
+    "PenShowTraces": true,
+    "ShowMode": 2
+}
